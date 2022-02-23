@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class MyAdulthood {
 
 	public static void metodus(boolean userFrendly) {
