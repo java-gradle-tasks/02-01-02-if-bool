@@ -1,6 +1,4 @@
 # 02-01-02-if-bool
-# MyAdulthood
-# 01-05-01-if-elagazas-1
 
 Ezeknél a feladatoknál az elágazásban csak igaz ágat használjon!
 Legyen adott a következő kódrészlet. Egészítse ki ezt a kódot úgy, hogy csak akkor legyen a program felhasználóbarát, ha a „userFrendly” változó értéke true! Felnőttkorúnak számít valaki, ha legalább 18 éves
